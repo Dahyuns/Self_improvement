@@ -1,1 +1,2 @@
-# Self_improvement
+목적 : OOP, 물리 공부
+
