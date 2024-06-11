@@ -7,3 +7,6 @@ https://dev-dahyun.tistory.com/29
 
 등속직선운동
 https://dev-dahyun.tistory.com/33
+
+가속도 운동
+https://dev-dahyun.tistory.com/34
