@@ -14,6 +14,15 @@
  - 가속도 운동
 <https://dev-dahyun.tistory.com/34>
 
+ - 힘과 운동 법칙
+<https://dev-dahyun.tistory.com/35>
+
+ -
+<
+
+ -
+<
+
 <br>
 
 ### ⚙ 물리2  1~5, 15는 대충
