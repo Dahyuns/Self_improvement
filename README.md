@@ -17,10 +17,16 @@
  - 힘과 운동 법칙
 <https://dev-dahyun.tistory.com/35>
 
- -
+ - 힘의 평형
+<https://dev-dahyun.tistory.com/36>
+
+ - 운동량과 충격량
 <
 
- -
+ - 운
+<
+
+ - 운
 <
 
 <br>
