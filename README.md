@@ -23,8 +23,8 @@
  - 운동량과 충격량
 <https://dev-dahyun.tistory.com/37>
 
- - 운
-<
+ - 일과 에너지
+<https://dev-dahyun.tistory.com/38>
 
  - 운
 <
