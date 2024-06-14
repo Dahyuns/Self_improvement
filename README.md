@@ -21,7 +21,7 @@
 <https://dev-dahyun.tistory.com/36>
 
  - 운동량과 충격량
-<
+<https://dev-dahyun.tistory.com/37>
 
  - 운
 <
