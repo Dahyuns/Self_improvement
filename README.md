@@ -26,8 +26,11 @@
  - 일과 에너지
 <https://dev-dahyun.tistory.com/38>
 
- - 운
-<
+ - 역학적 에너지 보존 법칙
+<https://dev-dahyun.tistory.com/39>
+
+ - 역
+<>
 
 <br>
 
