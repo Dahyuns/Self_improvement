@@ -2,7 +2,7 @@
 목적 : OOP, 물리, 수학 등 개발관련 기초공부
 <br><br>
  
-## ⚙ 물리1 (16은 흘겨, 3단원 3차시 전반사와 광통신)
+## ⚙ 물리1
 <https://www.youtube.com/watch?v=aYksEQ6uUYE&list=PLWHFxmcZ4OBBvZU3534HmE8kjI4aZNLom>
 
  - 속력과 속도
@@ -29,8 +29,8 @@
  - 역학적 에너지 보존 법칙
 <https://dev-dahyun.tistory.com/39>
 
- - 역
-<>
+ - 전반사와 광통신
+<https://dev-dahyun.tistory.com/40>
 
 <br>
 
