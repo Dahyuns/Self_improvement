@@ -16,7 +16,7 @@
 ### ⚙ 물리2  1~5, 15는 대충
 <https://www.youtube.com/watch?v=K9Pg9twGn1g&list=PLvitForcsI6MMlMgJKBloMZB8IC9sZXQl&index=16>
 
- - 힘의 평형 <br><>
+ - 힘의 평형 <br><https://dev-dahyun.tistory.com/41>
  - 힘의 평형 <br><>
  - 힘의 평형 <br><>
  - 힘의 평형 <br><>
