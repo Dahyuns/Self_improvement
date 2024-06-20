@@ -18,7 +18,7 @@
 
  - 힘의 평형 <br><https://dev-dahyun.tistory.com/41>
  - 물체의 운동 <br><https://dev-dahyun.tistory.com/42>
- - 힘의 평형 <br><>
+ - 힘의 평형 <br><https://dev-dahyun.tistory.com/43>
  - 힘의 평형 <br><>
  - 힘의 평형 <br><>
 
