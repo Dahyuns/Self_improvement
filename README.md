@@ -14,7 +14,7 @@
 <br>
 
 ### ⚙ 물리2  힘의 평형, 물체의 운동, 일반상대성이론, 일과 에너지, (대충)볼록렌즈 + 삼각함수 라디안 값 구하는법
-<https://www.youtube.com/watch?v=K9Pg9twGn1g&list=PLvitForcsI6MMlMgJKBloMZB8IC9sZXQl&index=16>
+<https://www.ebsi.co.kr/ebs/lms/lmsx/retrieveSbjtDtl.ebs?courseId=S20200000295#lecture>
 
  - 힘의 평형 <br><https://dev-dahyun.tistory.com/41>
  - 물체의 운동 <br><https://dev-dahyun.tistory.com/42>
