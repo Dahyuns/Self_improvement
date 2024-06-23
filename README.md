@@ -23,10 +23,9 @@
  - 힘의 평형 <br><>
 
 <br>
-
-### ⚙ [선형대수]
-<https://www.youtube.com/watch?v=ic_hG2M2nG0&list=PLkoaXOTFHiqhVDo0nWybNmihCP_4BjOFR>
-
+### ⚙ 수학
+ - 삼각함수 <br><https://dev-dahyun.tistory.com/41>
+ - 선형대수 <br><https://dev-dahyun.tistory.com/41>
 <br>
 
 ### ⚙ [이득우 - 게임 수학] 
