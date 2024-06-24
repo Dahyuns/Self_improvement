@@ -19,7 +19,7 @@
  - 힘의 평형 <br><https://dev-dahyun.tistory.com/41>
  - 물체의 운동 <br><https://dev-dahyun.tistory.com/42>
  - 포물선 운동 <br><https://dev-dahyun.tistory.com/43>
- - 힘의 평형 <br><>
+ - 등속 원운동 <br><https://dev-dahyun.tistory.com/44>
  - 힘의 평형 <br><>
 
 <br>
