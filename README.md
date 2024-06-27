@@ -13,7 +13,7 @@
  - 전반사와 광통신 <br><https://dev-dahyun.tistory.com/40>
 <br>
 
-### ⚙ 물리2  일반상대성이론, 일과 에너지, (대충)볼록렌즈 + 삼각함수 라디안 값 구하는법
+### ⚙ 물리2  일과 에너지, (대충)볼록렌즈 + 삼각함수 라디안 값 구하는법
 <https://www.ebsi.co.kr/ebs/lms/lmsx/retrieveSbjtDtl.ebs?courseId=S20200000295#lecture>
 
  - 힘의 평형 <br><https://dev-dahyun.tistory.com/41>
@@ -21,7 +21,7 @@
  - 포물선 운동 <br><https://dev-dahyun.tistory.com/43>
  - 등속 원운동 <br><https://dev-dahyun.tistory.com/44>
  - 케플러 법칙, 뉴턴 중력 법칙 <br><https://dev-dahyun.tistory.com/45>
- - 
+ - 일반 상대성 이론 <br><https://dev-dahyun.tistory.com/46>
 
 <br>
 ### ⚙ 수학
