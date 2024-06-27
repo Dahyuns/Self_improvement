@@ -28,10 +28,7 @@
 ### ⚙ 수학
  - 삼각함수 <br><https://dev-dahyun.tistory.com/41>
  - 선형대수 <br><https://dev-dahyun.tistory.com/41>
-<br>
-
-### ⚙ [이득우 - 게임 수학] 
-<https://www.youtube.com/watch?v=WnZIgKYfY6w&list=PLMcHQUYJZc72MRDilqgikWBFo-Fx4l8bF>
+ - 이득우의 게임 수학 <br><https://www.youtube.com/watch?v=WnZIgKYfY6w&list=PLMcHQUYJZc72MRDilqgikWBFo-Fx4l8bF>
 
 <br>
 
