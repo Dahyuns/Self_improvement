@@ -1,4 +1,4 @@
-# Self_improvement 
+![image](https://github.com/Dahyuns/Self_improvement/assets/77180432/ce032f04-1552-4c5b-83a2-940fa9698d57)# Self_improvement 
 목적 : OOP, 물리, 수학 등 개발관련 기초공부
 <br><br>
 <details>
@@ -24,7 +24,7 @@
  - 등속 원운동 <br><https://dev-dahyun.tistory.com/44>
  - 케플러 법칙, 뉴턴 중력 법칙 <br><https://dev-dahyun.tistory.com/45>
  - 관성력 <br><https://dev-dahyun.tistory.com/46>
- - 일과 에너지 <br><https://dev-dahyun.tistory.com/4>
+ - 일과 에너지 <br><https://dev-dahyun.tistory.com/47>
 
 ---
 <br></details>
