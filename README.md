@@ -1,4 +1,4 @@
-![image](https://github.com/Dahyuns/Self_improvement/assets/77180432/ce032f04-1552-4c5b-83a2-940fa9698d57)# Self_improvement 
+# Self_improvement 
 목적 : OOP, 물리, 수학 등 개발관련 기초공부
 <br><br>
 <details>
