@@ -23,7 +23,8 @@
  - 포물선 운동 <br><https://dev-dahyun.tistory.com/43>
  - 등속 원운동 <br><https://dev-dahyun.tistory.com/44>
  - 케플러 법칙, 뉴턴 중력 법칙 <br><https://dev-dahyun.tistory.com/45>
- - 일반 상대성 이론 <br><https://dev-dahyun.tistory.com/46>
+ - 관성력 <br><https://dev-dahyun.tistory.com/46>
+ - 일과 에너지 <br><https://dev-dahyun.tistory.com/4>
 
 ---
 <br></details>
