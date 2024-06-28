@@ -15,7 +15,7 @@
  - 역학적 에너지 보존 법칙 <br><https://dev-dahyun.tistory.com/39>
  - 전반사와 광통신 <br><https://dev-dahyun.tistory.com/40>
 ---
-### ⚙ 물리2  일과 에너지, (대충)볼록렌즈 
+### ⚙ 물리2
 <https://www.ebsi.co.kr/ebs/lms/lmsx/retrieveSbjtDtl.ebs?courseId=S20200000295#lecture>
 
  - 힘의 평형 <br><https://dev-dahyun.tistory.com/41>
@@ -25,7 +25,6 @@
  - 케플러 법칙, 뉴턴 중력 법칙 <br><https://dev-dahyun.tistory.com/45>
  - 관성력 <br><https://dev-dahyun.tistory.com/46>
  - 일과 에너지 <br><https://dev-dahyun.tistory.com/47>
-
 ---
 <br></details>
 <details>
