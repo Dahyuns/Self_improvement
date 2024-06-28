@@ -16,8 +16,6 @@
  - 전반사와 광통신 <br><https://dev-dahyun.tistory.com/40>
 ---
 ### ⚙ 물리2
-<https://www.ebsi.co.kr/ebs/lms/lmsx/retrieveSbjtDtl.ebs?courseId=S20200000295#lecture>
-
  - 힘의 평형 <br><https://dev-dahyun.tistory.com/41>
  - 물체의 운동 <br><https://dev-dahyun.tistory.com/42>
  - 포물선 운동 <br><https://dev-dahyun.tistory.com/43>
