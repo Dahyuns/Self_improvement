@@ -30,8 +30,8 @@
 
 ### ⚙ 수학 + 삼각함수 라디안 값 구하는법
  - 삼각함수 <br><https://dev-dahyun.tistory.com/49>
+ - 게임 수학 <br><https://dev-dahyun.tistory.com/50>
  - 선형대수 <br><https://dev-dahyun.tistory.com/41>
- - 이득우의 게임 수학 <br><https://www.youtube.com/watch?v=WnZIgKYfY6w&list=PLMcHQUYJZc72MRDilqgikWBFo-Fx4l8bF>
 ---
 <br></details>
 <details>
