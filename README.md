@@ -38,7 +38,7 @@
 <summary>OOP</summary>
 
 ### OOP
- - 객체지향의 사실과 오해 <br>
+ - 객체지향의 사실과 오해 <br> <https://dev-dahyun.tistory.com/51>(저작권관계로 보호글입니다) 
  - 오브젝트 <br>
 ---
 <br></details>
