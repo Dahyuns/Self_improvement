@@ -25,6 +25,8 @@
  - 일과 에너지 <br><https://dev-dahyun.tistory.com/47>
 ---
 <br></details>
+
+
 <details>
 <summary>수학</summary>
 
@@ -34,20 +36,25 @@
  - 선형대수 <br><https://dev-dahyun.tistory.com/41>
 ---
 <br></details>
+
+
 <details>
 <summary>OOP</summary>
 
 ### OOP
- - 객체지향의 사실과 오해 <br> <https://dev-dahyun.tistory.com/51>
-<details>
-<summary>기록</summary>
+ - 객체지향의 사실과 오해 <br> <https://dev-dahyun.tistory.com/51> <br>
+[기록]                         &emsp;
+0705 : 2장 완독 및 요약정리 <br>&emsp;&emsp;&emsp;&emsp;
+0706 :                     <br>&emsp;&emsp;&emsp;&emsp;
+0707 :                     <br>&emsp;&emsp;&emsp;&emsp;
+   
+ - 오브젝트  <br> <https://dev-dahyun.tistory.com/51>
 
-   0705 : 2장 완독 및 요약정리
-   0706 : 
-   0707 : 
- - 오브젝트 <br>
----
-<br></details>
+ ---
+</details>
+
+
+
 <details>
 <summary>Other</summary>
   
