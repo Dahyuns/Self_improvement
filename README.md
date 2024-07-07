@@ -45,8 +45,8 @@
  - 객체지향의 사실과 오해 <br> <https://dev-dahyun.tistory.com/51> <br>
 [기록]                         &emsp;
 0705 : 2장 완독 및 요약정리 <br>&emsp;&emsp;&emsp;&emsp;
-0706 :                     <br>&emsp;&emsp;&emsp;&emsp;
-0707 :                     <br>&emsp;&emsp;&emsp;&emsp;
+0706 : 3장(1/2) 완독 및 요약정리                    <br>&emsp;&emsp;&emsp;&emsp;
+0707 : 3장 완독 및 요약정리                    <br>&emsp;&emsp;&emsp;&emsp;
    
  - 오브젝트  <br> <https://dev-dahyun.tistory.com/51>
 
