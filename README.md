@@ -41,16 +41,8 @@
 <details>
 <summary>OOP</summary>
 
-### OOP
- - 객체지향의 사실과 오해 <br> <https://dev-dahyun.tistory.com/51> <br>
-[기록]                         &emsp;
-0705 : 2장 완독 및 요약정리 <br>&emsp;&emsp;&emsp;&emsp;
-0706 : 3장(1/2) 완독 및 요약정리                    <br>&emsp;&emsp;&emsp;&emsp;
-0707 : 3장 완독 및 요약정리                    <br>&emsp;&emsp;&emsp;&emsp;
-0708 : 4장 완독 및 요약정리                    <br>&emsp;&emsp;&emsp;&emsp;
-0709 : 5장 완독 및 요약정리                    <br>&emsp;&emsp;&emsp;&emsp;
-0710 : 6장 완독 및 요약정리                    <br>&emsp;&emsp;&emsp;&emsp;
-0711 : 7장 완독 및 요약정리                    <br>&emsp;&emsp;&emsp;&emsp;
+### OOP 
+ - 객체지향의 사실과 오해  &emsp; 0705 - 0712 완독 <br> <https://dev-dahyun.tistory.com/51> 
    
  - 오브젝트  <br> <https://dev-dahyun.tistory.com/51>
 
