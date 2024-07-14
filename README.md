@@ -33,7 +33,7 @@
 ### ⚙ 수학 + 삼각함수 라디안 값 구하는법
  - 삼각함수 <br><https://dev-dahyun.tistory.com/49>
  - 게임 수학 <br><https://dev-dahyun.tistory.com/50>
- - 선형대수 <br><https://dev-dahyun.tistory.com/41>
+ - 선형대수 <br><>
 ---
 <br></details>
 
@@ -42,7 +42,8 @@
 <summary>OOP</summary>
 
 ### OOP 
- - 객체지향의 사실과 오해  &emsp; 0705 - 0712 완독 <br> <https://dev-dahyun.tistory.com/51> 
+ - 객체지향의 사실과 오해  &emsp; 0705 - 0712 완독 <br> <https://dev-dahyun.tistory.com/51>
+ - ㄴ> 알게된 점 및 앞으로 개발 방향 <br> <https://dev-dahyun.tistory.com/52>
  - 오브젝트  <br> <https://dev-dahyun.tistory.com/51>
 
  ---
