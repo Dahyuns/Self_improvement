@@ -26,7 +26,6 @@
 ---
 <br></details>
 
-
 <details>
 <summary>수학</summary>
 
@@ -37,18 +36,28 @@
 ---
 <br></details>
 
-
 <details>
 <summary>OOP</summary>
 
 ### OOP 
  - 객체지향의 사실과 오해  &emsp; 0705 - 0712 완독 <br> <https://dev-dahyun.tistory.com/51>
- - ㄴ> 알게된 점 및 앞으로 개발 방향 <br> <https://dev-dahyun.tistory.com/52>
  - 오브젝트  <br> <https://dev-dahyun.tistory.com/51>
-
+ 
  ---
 </details>
 
+
+<details>
+<summary>운영체제와 자료구조</summary>
+
+### 운영체제 
+ -  <br> <https://dev-dahyun.tistory.com/51>
+
+### 자료구조 
+ -  <br> <https://dev-dahyun.tistory.com/51>
+ 
+ ---
+</details>
 
 
 <details>
