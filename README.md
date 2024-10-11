@@ -48,16 +48,30 @@
 
 
 <details>
-<summary>운영체제와 자료구조</summary>
-
-### 운영체제 
+<summary>컴퓨터구조와 운영체제</summary>
+[컴퓨터구조와 운영체제 강의 링크](https://www.youtube.com/playlist?list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl)
+ 
+### 컴퓨터구조
  -  <br> <https://dev-dahyun.tistory.com/51>
+ 
+### 운영체제(10.11 ~
+ -  <br> <https://dev-dahyun.tistory.com/51>
+
+ ---
+</details>
+
+
+
+<details>
+<summary>자료구조</summary>
 
 ### 자료구조 
  -  <br> <https://dev-dahyun.tistory.com/51>
  
  ---
 </details>
+
+
 
 
 <details>
