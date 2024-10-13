@@ -51,10 +51,10 @@
 <summary>컴퓨터구조와 운영체제</summary>
 [컴퓨터구조와 운영체제 강의 링크](https://www.youtube.com/playlist?list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl)
  
-### 컴퓨터구조
- -  <br> <https://dev-dahyun.tistory.com/51>
+### 컴퓨터구조(10.11 ~
+ -  <br> <https://dev-dahyun.tistory.com/70>
  
-### 운영체제(10.11 ~
+### 운영체제
  -  <br> <https://dev-dahyun.tistory.com/51>
 
  ---
