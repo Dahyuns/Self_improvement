@@ -66,7 +66,13 @@
 <summary>자료구조</summary>
 
 ### 자료구조 
- -  <br> <https://dev-dahyun.tistory.com/51>
+ - Array , List <br>
+ - Stack
+ - Queue
+ - LinkedList
+ - Hash
+ - Tree
+ - Heap
  
  ---
 </details>
